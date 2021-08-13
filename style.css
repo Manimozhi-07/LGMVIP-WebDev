@@ -1,0 +1,111 @@
+.navbar-brand{
+    font-family:cursive;
+}
+
+#home{
+    background-image: url("image/home.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    margin-top: 50px;
+    background-position:center;
+    padding:0%;
+    margin:0%;
+   
+}
+.lead{
+    font-size: 50px;
+    font-family: cursive;
+    color:black;
+    text-align: center;
+    padding:20%;
+    text-shadow: 4px -4px gray;
+}
+#gallery{
+    margin-top: 50px;
+}
+#gallery h2{
+    
+    text-align: center;
+    margin-top: 55px;
+    font-family:cursive;
+    text-shadow: 2px -2px gray;
+}
+#gallery h3{
+     
+    text-align: center;
+    font-family:cursive;
+    color: gray;
+}
+#gallery img{
+    width:250px;
+    height:250px;
+    margin:20px;
+
+}
+.small{
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+}
+#aboutus{
+    background-color:pink;
+    margin-top: 50px;
+}
+#aboutus h2{
+    text-align: center;
+    margin-top: 55px;
+    font-family:cursive;
+    text-shadow: 2px -2px gray;
+}
+#aboutus h3{
+    text-align: center;
+    font-family:cursive;
+    margin-bottom: 70px;
+   
+}
+#aboutus h4{
+    text-align: left;
+    font-size: 30px;
+    font-family:cursive;
+}
+#aboutus img{
+    width:250px;
+    height:250px;
+    margin :20px;
+
+}
+.panel{
+    width:300px;
+}
+#reservation{
+    margin-top: 50px;
+}
+#reservation h2{
+   
+    text-align: center;
+    margin-top: 55px;
+    font-family:cursive;
+    text-shadow: 2px -2px grey;
+}
+#reservation h3{
+    text-align: center;
+    font-family:cursive;
+    margin-bottom: 70px;
+   
+}
+#reservation img{
+    width:600px;
+    height: 300px;
+}
+#contactus{
+    background-color:pink;
+    margin-top: 50px;
+}
+#contactus h2{
+    text-align: center;
+    margin-top: 55px;
+    font-family:cursive;
+    text-shadow: 2px -2px gray;
+    margin-bottom: 100px;
+}
